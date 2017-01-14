@@ -11,5 +11,6 @@ Also, if someone want to search for a particular thing in Torch nn package, can 
 1. Comprehensive Lua Tutorials can now be found on [Tutorials Point](https://www.tutorialspoint.com/lua/)
 2. One can also read the online available book [Programming in Lua](http://www.lua.org/pil/contents.html), which is not  difficult to understand.
 3. A very helpful [Lua cheatsheet](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
+4. [Lua Reference Mannal 5.3](https://www.lua.org/manual/5.3/)
 
 All the Best!
